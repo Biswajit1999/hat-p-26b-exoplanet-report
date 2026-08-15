@@ -1,4 +1,4 @@
-# HAT-P-26 b: A Clear-Atmosphere Warm Neptune
+# HAT-P-26 b: Transit Structure of a Warm Neptune
 
 <!-- TARGET-IDENTITY-START -->
 <p align="center">
@@ -7,9 +7,9 @@
 
 <p align="center"><em>AI-generated artist's interpretation informed by the measured system properties; not a direct image.</em></p>
 
-**Warm Neptune · water-bearing atmosphere · TESS**
+**Warm Neptune · TESS transit reanalysis**
 
-A low-density warm Neptune famous for a comparatively clear atmosphere, used here for a reproducible TESS transit and noise-consistency analysis.
+A low-density warm Neptune analyzed here through reproducible TESS transit fitting and noise diagnostics; published atmosphere findings are clearly separated as literature context.
 <!-- TARGET-IDENTITY-END -->
 <p align="center">
   <img src="figures/hatp26b_tess_transit.png" alt="Phase-folded real TESS transit light curve of HAT-P-26 b" width="760">
