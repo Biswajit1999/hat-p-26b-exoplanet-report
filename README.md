@@ -1,10 +1,20 @@
-# HAT-P-26 b — Real TESS Transit Report
+# HAT-P-26 b: A Clear-Atmosphere Warm Neptune
 
+<!-- TARGET-IDENTITY-START -->
+<p align="center">
+  <img src="assets/artist_concept.webp" alt="Artist's interpretation of HAT-P-26 b near its host star" width="900">
+</p>
+
+<p align="center"><em>AI-generated artist's interpretation informed by the measured system properties; not a direct image.</em></p>
+
+**Warm Neptune · water-bearing atmosphere · TESS**
+
+A low-density warm Neptune famous for a comparatively clear atmosphere, used here for a reproducible TESS transit and noise-consistency analysis.
+<!-- TARGET-IDENTITY-END -->
 <p align="center">
   <img src="figures/hatp26b_tess_transit.png" alt="Phase-folded real TESS transit light curve of HAT-P-26 b" width="760">
 </p>
 
-One real public TESS SPOC light curve; one historical NASA Exoplanet Archive ephemeris; one timing-adjusted, limb-darkened transit fit.
 
 **[Open the full report](https://biswajit1999.github.io/hat-p-26b-exoplanet-report/)** — the live GitHub Pages version.
 
